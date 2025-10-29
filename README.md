@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jiayouzl&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-## 关于我哦🙎‍♂️
+### 关于我哦🙎‍♂️
 
 - 🔭 喜欢写代码。
 - 🌱 喜欢帮助他人。
@@ -21,5 +21,5 @@
 - 💬 Be good at alchemy and learn deeply.
 - 📫 develop high-performance distributed API interfaces.
 - 😄 Front-end development and Vue3 home bucket.
-- 😄 Skilled in backend development, proficient in Python3, PHP, GO, and even antique ASP.
+- 😄 Skilled in backend development, proficient in Python3, PHP, GO, 和 even antique ASP.
 - 😀 keen on service-free development model, function computing, cloud functions, etc.
