@@ -21,4 +21,5 @@
 - 💬 Be good at alchemy and learn deeply.
 - 📫 develop high-performance distributed API interfaces.
 - 😄 Front-end development and Vue3 home bucket.
+- 😄 Skilled in backend development, proficient in Python3, PHP, GO, and even antique ASP.
 - 😀 keen on service-free development model, function computing, cloud functions, etc.
