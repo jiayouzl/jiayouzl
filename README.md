@@ -8,8 +8,8 @@
 - 🤔 喜欢研究各种新技术。
 - 💬 会炼丹，深度学习。
 - 📫 会开发高性能分布式Api接口。
-- 😄 会前端开发，会HTML，CSS，jQuery，Vue3全家桶。
-- 😄 会后端开发，会Python3 PHP GO 还会古董ASP。
+- 😄 会前端开发，会HTML、CSS、jQuery、Vue3全家桶。
+- 😄 会后端开发，会Python3、PHP、GO 还会古董ASP。
 - 😀 会Windows、macOS端原生应用开发。
 - 😀 热衷无服务开发模式，函数计算，云函数等。
 
@@ -21,7 +21,7 @@
 - 🤔 like to study all kinds of new technologies.
 - 💬 Be good at alchemy and learn deeply.
 - 📫 develop high-performance distributed API interfaces.
-- 😄 Proficient in front-end development, including HTML, CSS, jQuery, 和 the full Vue3 stack.
-- 😄 Skilled in backend development, proficient in Python3, PHP, GO, 和 even antique ASP.
+- 😄 Proficient in front-end development, including HTML、CSS、jQuery、the full Vue3 stack.
+- 😄 Skilled in backend development, proficient in Python3、PHP、GO、even antique ASP.
 - 😀 Proficient in native application development for Windows and macOS.
 - 😀 keen on service-free development model, function computing, cloud functions, etc.
